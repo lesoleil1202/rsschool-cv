@@ -1,38 +1,40 @@
-# **Maria Sakhapova**
+# <u>**Maria Sakhapova**</u>
+ 
+![photo.jpg](photo.jpg "All rights reserved. Do not use in commercial or private aims")
 
-![photo.jpg](photo.jpg)
-
-### **Contact**
-> Tel: +79096528579
+### <u>**Contact**</u>
+> 📞 Tel: +79096528579
 > 
->E-mail: lesoleil1202@mail.ru
+> 📧 E-mail: lesoleil1202@mail.ru
 >
->Moscow, Russia
+> 🏙️ Moscow, Russia
 
-### **Profile**
+### <u>**Profile**</u>
 My **aim** is to become an IT specialist and a Java Script developer. My **objectives** are to study the basics of Java Script, learn the basics of Git. 
 My **strengths** are creativity, stress resistance, ability to quickly familiarise myself with new subjects and tasks. I am always ready to learn something new and continue my education.
 
-### **Programming skills**
+### <u>**Programming skills**</u>
 
 
 I have no skills in programming. Actually, this is my first task in programming.
 
 
-CV
+### <u>**Projects**</u>
 
-CV
-### **Work Experience**
+[Curriculum Vitae](https://lesoleil1202.github.io/rsschool-cv/cv "See the project") 
+
+
+### <u>**Work Experience**</u>
 
 *Personal tutor of English*
 
->Self-employed | 2014 -2017
+**Self-employed** | 2014 -2017
 
 *School teacher of English*
 
->State Bauman School of Engeeniring | 2017-2025
+**State Bauman School of Engineering** | 2017-2025
 
-### **Education**
+### <u>**Education**</u>
 
 *Bachelor’s Degree in Linguistics (Translator)*          
 **Moscow Region State University** | 2012-2016
@@ -51,7 +53,10 @@ Defence of the thesis “The reproduction of colloquial and obscene language whi
 **State University of Education** | 2024 
 
 
-### **Languages**
+### <u>**Languages**</u>
 * Russian: C2  
 * French: A2  
 * English: B2-C1
+
+[&uarr; *To the beginning* &uarr;](#maria-sakhapova)
+
