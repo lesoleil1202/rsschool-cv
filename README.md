@@ -1,1 +1,1 @@
-https://lesoleil1202.github.io/rsschool-cv/cv
+https://lesoleil1202.github.io/rsschool-cv/
